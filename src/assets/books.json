@@ -1,0 +1,55 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "rating": 4.7,
+        "description": "A novel set in the Jazz Age...",
+        "publication_year": 1925,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg"
+      },
+      {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "rating": 4.8,
+        "description": "A timeless novel of a child's moral awakening...",
+        "publication_year": 1960,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQvexshEWxV5-OcbNXX1bjuZl1NN_0riOpw&s"
+      },
+      {
+        "id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "rating": 4.6,
+        "description": "A dystopian novel about totalitarianism...",
+        "publication_year": 1949,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdPuDaR02V4gUv2WYbZgkFkiZLOJIkN2PGw&s"
+      },
+      {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "rating": 4.9,
+        "description": "A romantic novel that also serves as social commentary...",
+        "publication_year": 1813,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH0eA2mQ0dIamd3Fi_41gtR5V1CYHUukLBg&s"
+      },
+      {
+        "id": 5,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "rating": 4.3,
+        "description": "A story about a young boy’s journey...",
+        "publication_year": 1951,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRFur9gx583--YTeWiQ56nojsSRQVz4mTkg&s"
+      }
+    ]
+  }
+  
